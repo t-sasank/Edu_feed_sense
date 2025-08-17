@@ -4,10 +4,9 @@ Edu Feed Sense (Educational feedback Sentiment analyzer)– An AI-powered system
 
 Overall structure of the files would be :
 
-## 📂 Project Structure
+## Project Structure
 
-The repository is organized as follows:
-
+```
 project/
 │
 ├── app.py                # Main application file
@@ -19,7 +18,7 @@ project/
 ├── faculty.json            # Faculty List
 ├── model.py                # Models for Sentiment Analysis
 
-
+```
 
 🚀 Features
 
